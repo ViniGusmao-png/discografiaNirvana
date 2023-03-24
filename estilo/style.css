@@ -1,1 +1,55 @@
 @charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body{
+    min-height: 100vh;
+    background-color: rgb(228, 204, 176);
+}
+header{
+    font-size: 50px;
+    color: rgb(255, 255, 0);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+header>p{
+    font-size: 30px;
+}
+h1{
+    font-variant: small-caps;
+
+}
+.bleach{
+    color: white;
+    background-color:#A6A6A6;
+}
+.nevermind{
+    background-color: #0378A6;
+}
+.inutero{
+    background-color:  #F2E9BB;
+}
+.unpluggedmtv{
+    background-color:#F2A81D;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(255,255,0);
+    font-style: italic;
+    font-size: 17px;
+}
+footer{
+    text-align: center;
+    color: rgb(255,255,0);
+    padding: 25px;
+    background-color: black;
+}
