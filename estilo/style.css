@@ -62,24 +62,32 @@ section#img01{
 }
 .nevermind{
     background-color: #0378A6;
+    background-attachment: fixed;
+    background-size: cover;
 }
 section#img02{
     background-image: url('../imagens/nevermind.jpg');
-    background-repeat: no-repeat;
+    background-position: top center;
 
 }
 .inutero{
     background-color:  #F2E9BB;
+    background-attachment: fixed;
+    background-size: cover;
 }
 section#img03{
     background-image: url('../imagens/inUtero.jpg');
+    background-position: center;
 
 }
 .unpluggedmtv{
     background-color:#F2A81D;
+    background-attachment: fixed;
+    background-size: cover;
 }
 section#img04{
     background-image: url('../imagens/unpluggedMTV.jpg');
+    background-position: center;
 
 }
 a{
