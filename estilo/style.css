@@ -42,6 +42,9 @@ section>p{
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.233);
 }
+section.bleach.inutero.nevermind.unpluggedmtv{
+    background-attachment: fixed;
+}
 .video{
     text-align: center;
     background-color: white;
