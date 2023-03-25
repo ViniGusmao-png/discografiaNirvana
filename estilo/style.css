@@ -37,6 +37,11 @@ section{
     padding-left: 20px;
     padding-bottom: 10vh;
 }
+section>p{
+    padding: 5px;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.233);
+}
 .video{
     text-align: center;
     background-color: white;
@@ -48,14 +53,30 @@ section{
     color: white;
     background-color:#A6A6A6;
 }
+section#img01{
+    background-image: url('../imagens/bleach.jpg');
+
+}
 .nevermind{
     background-color: #0378A6;
+}
+section#img02{
+    background-image: url('../imagens/nevermind.jpg');
+
 }
 .inutero{
     background-color:  #F2E9BB;
 }
+section#img03{
+    background-image: url('../imagens/inUtero.jpg');
+
+}
 .unpluggedmtv{
     background-color:#F2A81D;
+}
+section#img04{
+    background-image: url('../imagens/unpluggedMTV.jpg');
+
 }
 a{
     color: white;
