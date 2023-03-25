@@ -37,6 +37,12 @@ section{
     padding-left: 20px;
     padding-bottom: 10vh;
 }
+.video{
+    background-color: white;
+    padding-top: 10vh;
+    padding-left: 20px;
+    padding-bottom: 10vh;
+}
 .bleach{
     color: white;
     background-color:#A6A6A6;
