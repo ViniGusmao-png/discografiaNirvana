@@ -42,9 +42,6 @@ section>p{
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.233);
 }
-section.bleach{
-    background-attachment: fixed;
-}
 .video{
     text-align: center;
     background-color: white;
@@ -55,6 +52,7 @@ section.bleach{
 .bleach{
     color: white;
     background-color:#A6A6A6;
+    background-attachment: fixed;
 }
 section#img01{
     background-image: url('../imagens/bleach.jpg');
