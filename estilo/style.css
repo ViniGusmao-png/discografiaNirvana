@@ -53,10 +53,12 @@ section>p{
     color: white;
     background-color:#A6A6A6;
     background-attachment: fixed;
+    background-size: cover;
 }
 section#img01{
     background-image: url('../imagens/bleach.jpg');
     background-position: center;
+    
 }
 .nevermind{
     background-color: #0378A6;
