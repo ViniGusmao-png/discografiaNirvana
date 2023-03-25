@@ -55,13 +55,14 @@ section>p{
 }
 section#img01{
     background-image: url('../imagens/bleach.jpg');
-
+    background-position: center;
 }
 .nevermind{
     background-color: #0378A6;
 }
 section#img02{
     background-image: url('../imagens/nevermind.jpg');
+    background-repeat: no-repeat;
 
 }
 .inutero{
