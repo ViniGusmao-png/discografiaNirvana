@@ -34,7 +34,8 @@ h1{
 section{
     font-family:var(--fonte1);
     padding-top: 10vh;
-    padding-left: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
     padding-bottom: 10vh;
 }
 section>p{
