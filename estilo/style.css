@@ -38,9 +38,10 @@ section{
     padding-bottom: 10vh;
 }
 section>p{
+    color: white;
     padding: 5px;
     display: inline-block;
-    background-color: rgba(0, 0, 0, 0.233);
+    background-color: rgba(0, 0, 0, 0.555);
 }
 .video{
     text-align: center;
