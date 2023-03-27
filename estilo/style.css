@@ -44,12 +44,17 @@ section>p{
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.555);
 }
-.video{
-    text-align: center;
-    background-color: white;
-    padding-top: 10vh;
-    padding-left: 20px;
-    padding-bottom: 10vh;
+section#primeiro{
+    background-color: #595959;
+}
+section#never{
+    background-color: #0367A6;
+}
+section#utero{
+    background-color: #8C4B45;
+}
+section#acustico{
+    background-color: #8C1B39;
 }
 .bleach{
     color: white;
